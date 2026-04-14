@@ -6,11 +6,10 @@
 </h1>
 
 <h3 align="center">
-  Webエンジニア / React・MERN Stack Developer <br/>
+  システムエンジニア志望（Java / C#）<br/>
   佐賀県在住 🇯🇵｜就職活動中
 </h3>
 
-<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&
@@ -20,15 +19,14 @@
   center=true&
   vCenter=true&
   width=750&
-  lines=Web+Engineer+%7C+MERN+Stack;
-  Graduate+Student+at+Saga+University;
-  Full-Stack+Web+Development;
-  Open+to+Jobs+in+Japan" />
+  lines=System+Engineer+%7C+Java+%2F+C%23;
+  Backend+Development+%7C+Spring+Boot;
+  System+Development+%26+Maintenance;
+  Open+to+Work+in+Japan" />
 </p>
 
-<!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdurrahman16&label=Profile%20Views&style=for-the-badge&color=brightgreen&base=25742" />
+  <img src="https://komarev.com/ghpvc/?username=abdurrahman16&label=Profile%20Views&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
@@ -36,59 +34,49 @@
 <img align="right" height="260" width="360"
 src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-## 👨‍🎓 自己紹介｜About Me
+## 👨‍💻 自己紹介｜About Me
 - 🎓 **佐賀大学大学院 修士課程（情報科学・情報技術）在籍中**  
   *2025年4月 ～ 2027年3月（予定）*
-- 💻 **Webエンジニア / ITエンジニア志望**
-- 🧩 得意分野：**MERNスタック（MongoDB / Express / React / Node.js）**
-- 📱 **Android・Flutter** を用いたアプリ開発経験
-- 🚑 研究テーマ：**緊急SOS・GPS連携ヘルスアラートシステム**
-- 🤝 2027年3月以降、日本企業での就職を希望
+- 💼 **システムエンジニア志望（開発・運用・保守）**
+- 💻 **Java / C# を中心としたバックエンド開発を学習中**
+- 🔧 **Spring Boot / REST API / JPA・Hibernate（Udemy受講中）**
+- 🧩 Web開発経験（MERNスタック）あり
+- 🚑 修士研究：**SOS健康管理システム（GPS・リアルタイム通知）**
+- 🌏 日本企業での長期的なキャリア形成を希望
 - 📫 Email: **abdrahmancse@gmail.com**
-- 📄 <a href="https://drive.google.com/file/d/14AivM_K5pt_oLsFOxCBA8exO9m0DfOEe/view" target="_blank">履歴書 / CV</a>
 
 ---
 
 ## 🛠️ 技術スキル｜Technical Skills
 
-### 🌐 Web開発
+### 💻 プログラミング言語
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js" />
 </p>
 
 ### ⚙️ バックエンド
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### 🌐 フロントエンド
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### 🗄️ データベース
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### 🎨 フレームワーク / UI
+### 📱 モバイル開発
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </p>
 
-### 📱 モバイル / アプリ
+### 🧰 その他
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,flutter,dart" />
-</p>
-
-### ☁️ クラウド / CMS
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,wordpress" />
-</p>
-
-### 🧰 開発環境
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
-</p>
-
-### 📚 その他（研究・学習経験）
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=git,github,dotnet" />
 </p>
 
 ---
@@ -97,44 +85,58 @@ src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ### 🔬 応用情報学研究室（佐賀大学）
 - **期間**：2025年4月 ～ 現在  
-- **内容**：  
-  - 緊急SOSアプリ（Flutter / Android）
-  - GPSリアルタイム位置追跡
-  - Firebase・Push通知・SMS連携
-  - 設計〜実装〜評価まで一貫対応
+- **内容**：
+  - SOS健康管理システムの研究・開発
+  - GPS位置情報のリアルタイム追跡
+  - Firebaseによる通知機能の実装
+  - 設計〜開発〜テストまで一貫して対応
 
-### 🏫 IT担当者（フルタイム｜バングラデシュ）
-- **期間**：2021年2月 ～ 2025年3月  
-- **内容**：  
-  - Webサイト管理・運用
-  - React / WordPress による業務効率化
-  - DB管理（MySQL / MongoDB）
+---
+
+### 💼 ITエンジニア（バングラデシュ）
+- **期間**：2022年2月 ～ 2025年3月  
+- **内容**：
+  - 業務システムの開発・運用・保守
+  - Webアプリケーション開発（React / Node.js）
+  - データベース管理（MongoDB / MySQL）
+  - 業務効率化のためのシステム改善を実施
 
 ---
 
 ## 🚀 主な開発実績｜Projects
-- 💼 **求人情報Webポータル**（MERN）
-- 🏨 **ホテル予約サイト**（Stripe決済）
-- 🚑 **ヘルスアラートシステム（研究）**
-- 🏦 **銀行向けキュー管理システム（C# / .NET）**
+
+### 🏦 銀行向け順番管理システム（C# / .NET）
+- 設計〜実装まで担当
+- 窓口業務の効率化・待ち時間の可視化を実現
+
+### 💼 求人検索Webアプリ（MERN）
+- フルスタック開発（MongoDB / Express / React / Node.js）
+- 検索〜応募機能まで一貫して構築
+
+### 📱 古書売買アプリ（Java / Android）
+- Firebase認証・リアルタイムデータ同期を実装
+
+### 🚑 SOS健康管理システム（研究）
+- GPS・緊急通知機能を実装したモバイルアプリ
 
 ---
 
 ## 🌏 言語｜Languages
-- 🇬🇧 **英語**：ビジネスレベル  
-- 🇯🇵 **日本語**：日常会話レベル（JLPT N4 / N3 勉強中）
+- 🇬🇧 英語：ビジネスレベル  
+- 🇯🇵 日本語：日常会話レベル（JLPT N3 勉強中）
 
 ---
 
-## 🤝 Contact / Links
+## 🎯 キャリア目標｜Career Goal
+JavaおよびC#を活用したシステム開発だけでなく、  
+運用・保守分野にも対応できるエンジニアとして、  
+安定したシステム提供に貢献したいと考えています。
+
+---
+
+## 🤝 Contact
 
 <p align="center">
-  <a href="https://github.com/abdurrahman16" target="_blank">
-    <img src="https://img.icons8.com/doodle/48/github--v1.png"/>
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.icons8.com/doodle/48/linkedin--v2.png"/>
-  </a>
   <a href="mailto:abdrahmancse@gmail.com">
     <img src="https://img.icons8.com/doodle/48/gmail-new.png"/>
   </a>
@@ -143,6 +145,7 @@ src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 ---
 
 <p align="center">
-  🌸 日本企業の皆様、プロフィールをご覧いただきありがとうございます。<br/>
-  Webエンジニアとして貴社に貢献できれば幸いです。
+  🌸 日本企業の皆様へ <br/>
+  プロフィールをご覧いただきありがとうございます。<br/>
+  システムエンジニアとして貢献できる機会を心よりお待ちしております。
 </p>
